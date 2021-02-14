@@ -1,4 +1,4 @@
-<h1>Nakusu - Github</h1>
+<h1>Nakusu - Profil</h1>
 <br/>
 <ul>
   <li>Student at @42 Paris</li>
